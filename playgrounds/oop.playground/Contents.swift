@@ -6,7 +6,7 @@
  2. Inheritance
  3. Encapsulation
  4. Polymorphism
- 
+ 5. This text is an Easter Egg. Find me!
  [Next](@next)
  */
 import Foundation
